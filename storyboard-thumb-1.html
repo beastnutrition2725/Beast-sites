@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { display: flex; justify-content: center; align-items: center; min-height: 100vh; background: #1a1a1a; font-family: 'Impact', 'Arial Black', sans-serif; }
+.thumbnail { width: 1280px; height: 720px; background: linear-gradient(135deg, #0d0d0d 0%, #2a0a0a 50%, #0d0d0d 100%); position: relative; overflow: hidden; border: 4px solid #ff3333; }
+.bg-pattern { position: absolute; width: 100%; height: 100%; background: repeating-linear-gradient(45deg, transparent, transparent 20px, rgba(255,50,50,0.03) 20px, rgba(255,50,50,0.03) 40px); }
+.character-area { position: absolute; bottom: -40px; left: 50%; transform: translateX(-50%); width: 700px; height: 600px; background: radial-gradient(ellipse at center, rgba(255,50,50,0.15) 0%, transparent 70%); border-radius: 50%; }
+.title { position: absolute; top: 40px; left: 40px; right: 40px; text-align: center; }
+.title-line1 { font-size: 72px; color: #ffffff; text-transform: uppercase; letter-spacing: 4px; text-shadow: 0 0 20px rgba(255,50,50,0.8), 4px 4px 0 #000; line-height: 1.1; }
+.title-line2 { font-size: 96px; color: #ff3333; text-transform: uppercase; letter-spacing: 6px; text-shadow: 0 0 30px rgba(255,50,50,1), 6px 6px 0 #000; line-height: 1; margin-top: 10px; }
+.subtitle { position: absolute; bottom: 80px; left: 0; right: 0; text-align: center; }
+.subtitle-text { font-size: 36px; color: #ffcc00; text-transform: uppercase; letter-spacing: 3px; text-shadow: 3px 3px 0 #000; background: rgba(0,0,0,0.6); display: inline-block; padding: 10px 30px; border-radius: 8px; }
+.fire-accent { position: absolute; top: 0; left: 0; width: 100%; height: 8px; background: linear-gradient(90deg, #ff0000, #ff6600, #ffcc00, #ff6600, #ff0000); }
+.demon-back-text { position: absolute; top: 50%; right: 60px; transform: translateY(-50%) rotate(90deg); font-size: 48px; color: rgba(255,50,50,0.2); letter-spacing: 20px; text-transform: uppercase; }
+.circle-badge { position: absolute; top: 30px; right: 30px; width: 120px; height: 120px; border: 4px solid #ff3333; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 24px; color: #fff; text-align: center; background: rgba(0,0,0,0.7); box-shadow: 0 0 20px rgba(255,50,50,0.5); }
+</style>
+</head>
+<body>
+<div class="thumbnail">
+  <div class="bg-pattern"></div>
+  <div class="fire-accent"></div>
+  <div class="character-area"></div>
+  <div class="demon-back-text">DEMON BACK</div>
+  <div class="title">
+    <div class="title-line1">The Real</div>
+    <div class="title-line2">BAKI WORKOUT</div>
+  </div>
+  <div class="subtitle">
+    <span class="subtitle-text">Can YOU Survive It?</span>
+  </div>
+  <div class="circle-badge">10<br>MIN</div>
+</div>
+</body>
+</html>
