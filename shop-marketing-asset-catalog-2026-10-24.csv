@@ -1,0 +1,21 @@
+Asset ID,Asset type,Channel,Working title,Primary purpose,CTA,Required inputs,Status,Recommended format
+WEB-001,Homepage hero,Website,Made for the way you choose to live,Introduce brand and drive discovery,Shop now,Shop name; product category; website URL; hero image,Ready for customization,1920x900 WebP/JPG
+WEB-002,Trust strip,Website,Why shop with us,Reduce purchase hesitation,Learn more,Verified guarantee; delivery; support details,Ready for customization,Website component
+WEB-003,About section,Website,The [SHOP NAME] story,Build trust and context,Explore collection,Shop story; verified differentiator,Ready for customization,300-500 words
+WEB-004,Collection intro,Website,Explore the collection,Guide browsing,Shop collection,Collection name; category copy,Ready for customization,Website component
+WEB-005,Product page,Website,Product detail template,Convert product interest,Add to basket,Product details; price; stock; delivery; returns,Ready for customization,Template
+WEB-006,FAQ block,Website,Answers before checkout,Resolve objections,Contact us,Verified policy and support details,Ready for customization,Website component
+SOC-001,Launch post,Instagram/Facebook,Meet [SHOP NAME],Awareness and website traffic,Visit website,Product category; differentiator; URL; image,Ready for customization,1080x1350 image + caption
+SOC-002,Product post,Instagram,The details matter,Product consideration,View product,Product feature; benefit; URL; image,Ready for customization,1080x1350 image + caption
+SOC-003,Story sequence,Instagram Stories,Meet the brand,Awareness and taps,Tap to shop,Logo; four visuals; URL,Ready for customization,1080x1920 frames
+SOC-004,Short video,TikTok/Reels,Looking for better [CATEGORY]?,Discovery and engagement,Shop collection,Product demonstration; verified benefit; URL,Ready for customization,1080x1920 video
+SOC-005,Brand post,LinkedIn,Clear and useful shopping,Brand credibility,Visit website,Verified range; audience; URL,Ready for customization,1200x627 image + copy
+SOC-006,Pin,Pinterest,[CATEGORY] for [USE CASE],Evergreen discovery,Explore products,Product image; use case; URL,Ready for customization,1000x1500 image + copy
+SOC-007,Short text post,X/Threads,Good products should be easy to choose,Traffic and brand voice,Explore website,Category; audience; URL,Ready for customization,Text + link
+EML-001,Launch email,Email,Meet [SHOP NAME],Announce launch and drive visits,Discover collection,Shop name; category; URL,Ready for customization,HTML/plain text
+EML-002,Welcome popup,Website,New here?,Capture discovery intent,Browse collection,Verified offer if any; URL,Ready for customization,Popup component
+ADV-001,Search ad,Google/Bing,Shop [CATEGORY],Capture high-intent traffic,Shop now,Category; shop name; verified benefits,Ready for customization,Responsive search ad
+ADV-002,Social ad,Meta/TikTok,Your next [CATEGORY] starts here,Drive qualified clicks,Shop now,Creative; audience; verified differentiator,Ready for customization,1080x1350 + copy
+OPS-001,UTM template,All digital channels,Choose Well campaign tracking,Measure traffic quality,Track campaign,Website URL; platform; content name,Ready for customization,URL template
+OPS-002,Publishing checklist,All channels,Pre-publish quality control,Protect brand and accuracy,Approve publishing,Final product and policy facts,Ready for customization,Checklist
+OPS-003,Content calendar,All channels,14-day launch schedule,Coordinate publishing,Publish consistently,Preferred channels; launch date,Ready for customization,CSV/calendar
